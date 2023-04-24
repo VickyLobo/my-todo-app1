@@ -1,0 +1,4 @@
+Clean the house.
+Throw garbage.
+Clean the bag.
+Add new todos.
